@@ -19,7 +19,7 @@ A machine learning approach to predicting **SED (Spectral Energy Distribution) f
 ✔️ Redshift: `z_m1(EAZY)`
 
 **Target Variables** (SED parameters):  
-✔️ `log10(mass)`, `log10(age)`, `Log10(SSFR)`, `Log10(Tau)`, `A_V`, `chi sq.`  
+✔️ `log10(mass)`, `log10(age)`, `Log10(SSFR)`, `Log10(Tau)`, `A_V`
 
 **Preprocessing Steps**:  
 ✔️ Filtered objects with `F444W ≤ 25` (brighter sources).  
